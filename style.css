@@ -1,0 +1,153 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: rgb(238, 9, 9);
+    /* Old browsers */
+    background: -moz-linear-gradient(45deg, rgb(55, 0, 255) 0%, #EAE0D5 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  }
+  
+  /** Header styles **/
+  .header {
+    background-image: url(https://ohmy.disney.com/wp-content/uploads/2014/08/cute-and-fluffy-lilo-and-stitch-stitch-e1454114513979.png);
+    height: 400px;
+    background-position: center,center;
+  }
+  
+  .Early Life {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FF9900 lack;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: unset center;
+    font-size: 24px
+  }
+  
+  .roasting p {
+    color: rgb(0, 13, 199);
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .spectrum div {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 0 20px;
+    color: rgb(168, 0, 0);
+    overflow: auto;
+    opacity: 20
+    ;
+  }
+  
+  .spectrum p {
+    color: rgb(0, 0, 0);
+    text-align: center  }
+  
+  /* Roast types */
+  .green {
+    background-color: rgb(255, 126, 5);
+  }
+  
+  .light {
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .city {
+    background-color: rgb(255, 126, 34);
+  }
+  
+  .vienna {
+    background-color: rgb(79, 224, 35);
+  }
+  
+  .italian {
+    background-color: #f7f7f7;
+  }
+  
+  /* Typography */
+  h1 {
+    color: #fffc4f;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 100px;
+    line-height: 76px;
+    margin: 0;
+    position:
+    text-align: right;
+    top: 20%;
+  }
+  
+  h2 {
+    color: #E4BB97;
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+  }
+  
+  h3 {
+    color: #41292C;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .2em;
+  }
+  
+  h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .2em;
+    font-weight: 300;
+  }
+  
+  /* Page elements */
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+  }
+  
+  li {
+    border-bottom: 1px solid #E4BB97;
+    list-style: none;
+    margin: 100px 0px;
+    padding-bottom: 60px;
+  }
+  
+  p {
+    color: #444444;
+    line-height: 32px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  
+  a {
+    color: #214E34;
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+  }
+  f {
+      position: center;
+      color: ##fffc4f;
+    
+  }
